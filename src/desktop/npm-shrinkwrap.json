@@ -6060,13 +6060,13 @@
             }
         },
         "hw-app-iota": {
-            "version": "0.5.1",
-            "resolved": "https://registry.npmjs.org/hw-app-iota/-/hw-app-iota-0.5.1.tgz",
-            "integrity": "sha512-H8N6TGG/TFCmqMLCd94v5XLqpSmNZTq2yDbYNBf3McJpsacHdw9aiQFuqY1V2LMXzHeL6tj2o0F+EVwl8c5u1Q==",
+            "version": "0.6.1",
+            "resolved": "https://registry.npmjs.org/hw-app-iota/-/hw-app-iota-0.6.1.tgz",
+            "integrity": "sha512-HVx88XOuO6NVtV9lUIQ6O1TbojK3PvVY4yyVM2SzLYjY5lRJalHh4ZkkOEKohJyi/e+Rckl1o6FDUpx3BD3N8g==",
             "requires": {
                 "babel-runtime": "^6.26.0",
                 "bip32-path": "^0.4.2",
-                "iota.lib.js": "^0.5.0",
+                "iota.lib.js": "^0.5.1",
                 "semver": "^5.6.0",
                 "struct": "0.0.12"
             }
